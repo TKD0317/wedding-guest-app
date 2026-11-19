@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "iterations": 200000,
+  "users": {
+    "はな": {
+      "salt": "+XrTfXQtWnyl1+8F/a8WAw==",
+      "nonce": "MYy7wFp4a/r7d9+H",
+      "ciphertext": "N/WpuuwIv7401QYjSW6omHuK3DZKNH/jUjxsnEa6RET/belT/1/Y6CiU/IgBalF2aHd5nfaXwvOVWZMQVPuuR1N2yFRbW8i9YnAsiCLfE45kGRJeF4TdLr26R47edPL4foM+cBVMeWEmiYVMiydmaAg0ab+qjOtrIkjIt3p7UvX841IdGjya5FUM+Mw1YcPEZD/C71kVvJw73GCv+2MWS5ZDx16k20ZLVQkxiNsgNkFzbVa9RsdRp2KtNVJTbN0hh/4zP60="
+    },
+    "そら": {
+      "salt": "gnbb7ZugmnNwSxj8exrzhA==",
+      "nonce": "8fSeIQ3m1IidkLmu",
+      "ciphertext": "B1PLAwh+lJKvm+aVY4Rpo6F1+K/iHN8IZ1xOsMCSD6k+uagxYARcHSmsh+00kVsG9T8HIdMBxpaaZDci1Fpc1cygOeZ+tJCTZ5/iA4R7Mw+96R++XZVKz9uTreaC3n/719j1158dNGi75rkwKY6HaPdsfdjDWZKNtaDxbFLCE4xCbIjMyxrL/Et40FPLBWhBWxlFiQk7U8rY8nzkIQ2ItUE1PEs="
+    },
+    "あーちゃん": {
+      "salt": "Pqaz1LbjmQoQ/Z/7eAYPTA==",
+      "nonce": "7dtHubaHyWfFy33Z",
+      "ciphertext": "Fei1mf25f1m4qjfmwBZGJrgu+wPwdIVnJwa7Rskcd0R3sA+wDlvCYofq/FUevapGxPEv57hiqTFHJiiDjO4QEdb+zFuldm4qDAymzvxBoLBixuLSXaVRYeGQ/h0OyI7RAcVfnF7Iva+4G87wG4+Kfw=="
+    }
+  }
+}
